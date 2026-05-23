@@ -1,0 +1,10 @@
+youtube.com
+youtu.be
+googlevideo.com
+youtube-ui.l.google.com
+ytimg.com
+ytimg.l.google.com
+youtube.googleapis.com
+ggpht.com
+meuip.com
+ifconfig.me
